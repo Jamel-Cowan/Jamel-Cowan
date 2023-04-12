@@ -15,7 +15,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jamel-Cowan)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
