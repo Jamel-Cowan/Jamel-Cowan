@@ -1,7 +1,7 @@
 <img src="https://images.squarespace-cdn.com/content/v1/62eace4a8ff0397a4e401de5/6ca69884-a94a-4f2b-a2aa-bd44c129f6d8/The+Block+Noob+banner.png?format=1500w" width="100%">
 
 <h1 align="center">Hi 👋, I'm Jamel Cowan</h1>
-<h3 align="center">A passionate Blockchain developer from New York</h3>
+<h3 align="center">A Passionate Blockchain Developer From New York</h3>
 
 
 <h3 align="center">Connect with me</h3>
