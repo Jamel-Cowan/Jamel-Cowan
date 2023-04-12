@@ -11,7 +11,7 @@
 <a href="https://stackoverflow.com/users/user:21506120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21506120" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@theblocknoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@theblocknoob" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/FhjwuExGZE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/FhjwuExGZE" height="30" width="40" /></a>
-<a href="/carillon-pike-mct2.squarespace.com/the-blog?format=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="carillon-pike-mct2.squarespace.com/the-blog?format=rss" height="30" width="40" /></a>
+<a href="https://www.theblocknoob.com/the-blog?format=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.theblocknoob.com/the-blog?format=rss" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jamel-cowan&label=Profile%20views&color=0e75b6&style=flat" alt="jamel-cowan" /> </p>
