@@ -26,7 +26,7 @@
 
 - 📝 I regularly write articles on [https://theblocknoob.com](https://theblocknoob.com)
 
-- 📫 How to reach me **Jamel@theblocknoob.com**
+- 📫 How to reach me  **Jamel@theblocknoob.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamel-cowan&show_icons=true&locale=en&layout=compact" alt="jamel-cowan" /></p>
 
