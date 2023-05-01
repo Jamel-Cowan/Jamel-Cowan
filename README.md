@@ -29,7 +29,7 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS --> 
+<!-- BEGIN YOUTUBE-CARDS -->
 [![Becoming a blockchain developer at age 33.](https://ytcards.demolab.com/?id=41I0BrN4Nzw&title=Becoming+a+blockchain+developer+at+age+33.&lang=en&timestamp=1675873378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Becoming a blockchain developer at age 33.")](https://www.youtube.com/watch?v=41I0BrN4Nzw)
 <!-- END YOUTUBE-CARDS -->
  
