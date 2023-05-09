@@ -1,10 +1,10 @@
 <img src="https://images.squarespace-cdn.com/content/v1/62eace4a8ff0397a4e401de5/6ca69884-a94a-4f2b-a2aa-bd44c129f6d8/The+Block+Noob+banner.png?format=1500w" width="100%">  
  
-<h1 align="center">Hi 👋, I'm Jamel Cowan</h1>
+<h1 align="center">Hi 👋, I'm Jamel Cowan</h1> 
 <h3 align="center">A Passionate Blockchain Developer From New York</h3>   
    
  
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect with me</h3> 
 <p align="center">
 <a href="https://twitter.com/theblocknoob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theblocknoob" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamel cowan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamel cowan" height="30" width="40" /></a>
