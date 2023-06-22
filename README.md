@@ -31,6 +31,7 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Becoming a blockchain developer at age 33.](https://ytcards.demolab.com/?id=41I0BrN4Nzw&title=Becoming+a+blockchain+developer+at+age+33.&lang=en&timestamp=1675873378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Becoming a blockchain developer at age 33.")](https://www.youtube.com/watch?v=41I0BrN4Nzw)
+[![The Block Noob Live Stream](https://ytcards.demolab.com/?id=bmUoq5eFNgA&title=The+Block+Noob+Live+Stream&lang=en&timestamp=1675437555&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "The Block Noob Live Stream")](https://www.youtube.com/watch?v=bmUoq5eFNgA)
 <!-- END YOUTUBE-CARDS -->
  
 # 
