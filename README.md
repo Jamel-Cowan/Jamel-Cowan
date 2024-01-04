@@ -40,7 +40,7 @@
  
 # 
 
-- 📝 I regularly write articles on [https://theblocknoob.com](https://theblocknoob.com)
+- 📝 I regularly write articles on my journey [https://theblocknoob.com](https://theblocknoob.com)
  
 - 📫 How to reach me  **Jamel@theblocknoob.com**
  
